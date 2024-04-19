@@ -1,0 +1,4 @@
+1. vytvorit virtualku a nainstalovat pytest
+2. vytvorim si app.py a dam tam dve funkce kalkulacky
+3. vytvorim si test_app.py a dam tam dva testy pro funkce kalkulacky
+4. vytvorim .github/workflows/test.yaml
